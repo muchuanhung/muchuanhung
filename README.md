@@ -6,7 +6,7 @@ I am a beginner for programing language with VFX artist background , creating mo
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 <a href="mailto:mu.chuan.hung@gmail.com">
-  <img src="https://img.shields.io/badge/dollychen.yiching@gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
+  <img src="https://img.shields.io/badge/mu.chuan.hung@gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
 </a>
 
 ## Skills 
