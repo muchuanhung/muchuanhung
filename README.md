@@ -8,6 +8,9 @@ I am a beginner for programing language with VFX artist background , creating mo
 <a href="mailto:mu.chuan.hung@gmail.com">
   <img src="https://img.shields.io/badge/mu.chuan.hung@gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
 </a>
+<a herf="https://medium.com/@mu-chuan-hung">
+<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=#EA4335">
+</a>
 
 ## Skills 
 <a href="https://html.com/">
