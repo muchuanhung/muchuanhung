@@ -28,10 +28,17 @@ I am a beginner for programing language with VFX artist background , creating mo
 <a href="https://sass-lang.com/">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 </a>
+<a href="https://tailwindcss.com/">
+  <img src="https://img.shields.io/badge/Tailwind-F8FAFC?style=for-the-badge&logo=Tailwindcss&logoColor=38BDF8">
+</a>
+
 
 ## Frameworks
 <a href="https://vuejs.org/">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+</a>
+<a href="https://reactjs.org/">
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=61DAFB">
 </a>
 <a href="https://expressjs.com/">
   <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
