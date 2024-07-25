@@ -47,8 +47,6 @@ I am a beginner for programing language with VFX artist background , creating mo
   <img src="https://img.shields.io/badge/sonarcloud-ffffff?style=for-the-badge&logo=sonarcloud&logoColor=#F3702A"> 
 </a>
 
-
-
 ## Frameworks
 <a href="https://vuejs.org/">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
